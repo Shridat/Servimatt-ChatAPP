@@ -67,3 +67,5 @@ VITE_OPENAI_API_KEY=your_openai_api_key_here
 
 4️⃣ Start the development server
 npm run dev
+
+Video Demo : https://drive.google.com/file/d/1KV7cK8BnpY2_1PXo8h_N4pU3_99UlEhY/view?usp=sharing
